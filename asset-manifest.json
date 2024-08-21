@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee-Form-using-React-Hooks/static/css/main.30070dcb.css",
+    "main.js": "/Employee-Form-using-React-Hooks/static/js/main.3876cb4b.js",
+    "static/js/453.bc07ca30.chunk.js": "/Employee-Form-using-React-Hooks/static/js/453.bc07ca30.chunk.js",
+    "index.html": "/Employee-Form-using-React-Hooks/index.html",
+    "main.30070dcb.css.map": "/Employee-Form-using-React-Hooks/static/css/main.30070dcb.css.map",
+    "main.3876cb4b.js.map": "/Employee-Form-using-React-Hooks/static/js/main.3876cb4b.js.map",
+    "453.bc07ca30.chunk.js.map": "/Employee-Form-using-React-Hooks/static/js/453.bc07ca30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30070dcb.css",
+    "static/js/main.3876cb4b.js"
+  ]
+}
